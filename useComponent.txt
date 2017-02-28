@@ -1,0 +1,2 @@
+vuejs-datepicker  //日期选择框
+vue-chartjs / vue-bulma-chartjs /vue-chart-js /  vue-bulma-chartist  //曲线图表
