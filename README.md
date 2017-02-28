@@ -17,6 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-![Image text](https://raw.githubusercontent.com/shenshuai89/vueGentelella/master/src/assets/img/logo.png)
+> Home--> dashboard1 show
+![Image text](https://github.com/shenshuai89/vueGentelella/blob/master/imgShow/dashboard1.jpg?raw=true)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
