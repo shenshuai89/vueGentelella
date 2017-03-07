@@ -1,6 +1,6 @@
-# vue-router2
+# vueGentelella
 
-> vue-router demo
+> use vue make a Gentelella demo,UI like the [Gentelella]
 
 ## Build Setup
 
@@ -21,3 +21,4 @@ npm run build --report
 ![Image text](https://github.com/shenshuai89/vueGentelella/blob/master/imgShow/dashboard1.jpg?raw=true)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[Gentelella]:<https://colorlib.com/polygon/gentelella/index.html>
