@@ -89,8 +89,8 @@
   @import "../../../node_modules/bulma/css/bulma.css"
   .appVersion {
     background: #f5f5f5;
-    padding-right: 0px!important;
-    padding-left: 10px!important;
+    padding-right: 0px !important;
+    padding-left: 10px !important;
     margin-bottom: 20px;
     .inner {
       height: auto;
@@ -100,6 +100,7 @@
       .appTitle {
         margin: 0 20px;
         border-bottom: 2px solid #d0d0d0;
+        margin-bottom: 15px;
         h2 {
           margin: 8px 0 6px;
           float: left;

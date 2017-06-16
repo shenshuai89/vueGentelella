@@ -23,7 +23,7 @@
             <ul class="lists">
               <li v-for="(list,index) in lists">
                 <div class="icheckbox_flat" :class="{green:list.done}" @click="toggle(list)">
-                  <input type="checkbox" class="flat" id="checkbox" >
+                  <input type="checkbox" class="flat" id="checkbox">
                 </div>
                 <!--<button @click="toggle(list)">{{ list.done ? "完成" : "未完成"}}</button>-->
                 <span class="listContent" :class="{selected:list.done}" @click="toggle(list)">{{ list.content }}</span>
@@ -96,6 +96,7 @@
       .settingTitle {
         margin: 0 20px;
         border-bottom: 2px solid #d0d0d0;
+        margin-bottom: 15px;
         h2 {
           margin: 8px 0 6px;
           float: left;
@@ -174,7 +175,7 @@
               background: url(../../assets/img/green.png) no-repeat;
               border: none;
               cursor: pointer;
-              &.green{
+              &.green {
                 background: url(../../assets/img/green.png) no-repeat -22px 0;
               }
               #checkbox {

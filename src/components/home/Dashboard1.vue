@@ -1,5 +1,5 @@
 <template>
-  <div id="dashboard1" class="row">
+  <div class="row">
     <Title-Count></Title-Count>
     <Net-Work></Net-Work>
     <App-Version></App-Version>

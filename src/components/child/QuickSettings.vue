@@ -73,6 +73,7 @@
       .settingTitle {
         margin: 0 20px;
         border-bottom: 2px solid #d0d0d0;
+        margin-bottom: 15px;
         h2 {
           margin: 8px 0 6px;
           float: left;
@@ -102,33 +103,33 @@
         margin: 10px 20px 10px 0px;
         font-size 18px
         overflow: hidden;
-        .quickList{
-          width:35%;
-          margin:0;
-          padding:0;
+        .quickList {
+          width: 35%;
+          margin: 0;
+          padding: 0;
           float: left;
-          li{
-            list-style:none;
-            margin-bottom:12px;
-            font-size:16px;
+          li {
+            list-style: none;
+            margin-bottom: 12px;
+            font-size: 16px;
             padding-left: 6px;
             overflow: hidden;
-            white-space:nowrap;
-            text-overflow:ellipsis;
-            i{
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            i {
               padding-right: 5px;
             }
-            span{
+            span {
               font-size: 12px;
 
             }
           }
-          &:first-child{
-            margin-top:12px;
+          &:first-child {
+            margin-top: 12px;
           }
         }
-        .chartWrapper{
-          width:64%;
+        .chartWrapper {
+          width: 64%;
           max-width: 230px;
           max-height: 230px;
           margin-top: 4px;

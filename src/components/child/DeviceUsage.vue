@@ -110,6 +110,7 @@
       .deviceTitle {
         margin: 0 20px;
         border-bottom: 2px solid #d0d0d0;
+        margin-bottom: 15px;
         h2 {
           margin: 8px 0 6px;
           float: left;

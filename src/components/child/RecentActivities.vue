@@ -127,6 +127,7 @@
       .settingTitle {
         margin: 0 20px;
         border-bottom: 2px solid #d0d0d0;
+        margin-bottom: 15px;
         white-space: nowrap;
         text-overflow: ellipsis;
         h2 {
@@ -162,15 +163,15 @@
           margin: 0;
           li {
             margin-bottom: -5px;
-            .block_wrapper{
-              padding:15px 0 15px 25px;
-              border-left:3px solid #bdc6d3;
+            .block_wrapper {
+              padding: 15px 0 15px 25px;
+              border-left: 3px solid #bdc6d3;
               .block_content {
                 .title {
                   font-size: 16px;
                   font-weight: 600;
                   position relative
-                  &:before{
+                  &:before {
                     content: "";
                     position: absolute;
                     left: -34px;
@@ -182,26 +183,26 @@
                     border-radius: 14px;
                     background: #f9f9f9;
                   }
-                  a{
+                  a {
                     color: #5A738E;
                   }
                   &.title:not(:last-child) {
                     margin-bottom: 0.5rem;
                   }
                 }
-                .byline{
+                .byline {
                   font-style italic;
                   font-size 0.9rem
                   margin-bottom: 0.4rem;
                   color: #5A738E;
-                  span{
+                  span {
                     color: #aab6aa;
                   }
-                  a{
+                  a {
                     color: #5A738E;
                   }
                 }
-                .excerpt{
+                .excerpt {
                   font-size 0.9rem
                   line-height: 1.2rem
                   color: #73879C;
