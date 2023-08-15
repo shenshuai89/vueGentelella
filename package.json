@@ -11,7 +11,6 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "element-ui": "^1.1.6",
-    "iview": "^1.0.0",
     "vue": "^2.1.10",
     "vue-bulma-datepicker": "^1.2.3",
     "vue-bulma-progress-bar": "^1.0.0",
@@ -53,7 +52,7 @@
     "scss": "^0.2.4",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
-    "stylus":"0.54.5",
+    "stylus": "0.54.5",
     "style-loader": "^0.13.1",
     "stylus-loader": "^2.1.1",
     "url-loader": "^0.5.7",

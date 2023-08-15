@@ -1,3 +1,6 @@
+# node version
+node version <= 12.9.0
+
 # vue-router2
 
 > vue-router demo
